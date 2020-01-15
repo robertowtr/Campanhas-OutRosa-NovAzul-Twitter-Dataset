@@ -1,1 +1,1 @@
-# Campanhas-OutRosa-NovAzul-Twitter-Dataset
+# Dados das campanhas do Outubro Rosa e Novembro Azul no Twitter(2014-2018)
